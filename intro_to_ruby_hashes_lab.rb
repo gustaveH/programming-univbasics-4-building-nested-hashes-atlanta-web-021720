@@ -17,7 +17,7 @@ def monopoly_with_third_tier
   # complexity.
   base_hash = {:railroads => {:pieces => 4, :rent_in_dollars => 
   {:one => {:one_piece_owned => 25}, :two => 2,:three => 3, :four => 4}, :names =>
-  {:one => :one => {:one_piece_owned => 25}, :two => 2,:three => 3, :four => 4} } }
+  {:one => 1, :two => 2,:three => 3, :four => 4} } }
 end
 
 def monopoly_with_fourth_tier
