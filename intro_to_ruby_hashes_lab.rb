@@ -1,7 +1,6 @@
 def base_hash
-  Hash.base_hash
 	{
-
+ Hash.base_hash
 	}
 end
 
